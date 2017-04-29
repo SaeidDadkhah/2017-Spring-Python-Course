@@ -1,0 +1,49 @@
+First Session:
+	01. Introduction to course +
+	02. Introduction to Python +
+	03. Python setup +
+	04. Hello World! +
+	05. Objects and data structures +
+		01. Numbers
+		02. Strings
+		03. Booleans
+		04. List
+			01. Iterable
+		05. Dictionaries
+		06. Tuples
+			01. Immutable
+		07. Sets
+	06. Files +
+	07. Comparison operators and chained COs + 
+	08. String format +
+
+Second Session:
+	01. Statements
+		01. Conditional statements
+		02. For and while loops
+		03. Range
+		04. List Comprehensions (Empty fixed-size list)
+	02. Methods
+	03. Functions
+	04. Lambda expressions
+	05. Some built-in functions
+		01. Map
+		02. Reduce
+		03. Filter
+		04. Zip
+		05. Enumerate
+		06. All
+		07. Any
+		08. Complex
+	A. Milestone project
+
+Third Session:
+	01. Object oriented programming
+	02. Errors and exceptions
+	03. Some advanced functions
+	04. Modules
+
+Forth Session:
+	01. Graphical user interface programming
+	02. Socket programming
+	B. Final project
