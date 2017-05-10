@@ -19,31 +19,38 @@ First Session:
 
 Second Session:
 	01. Statements
-		01. Conditional statements
-		02. For and while loops
-		03. Range
-		04. List Comprehensions (Empty fixed-size list)
-	02. Methods
-	03. Functions
-	04. Lambda expressions
+		01. Conditional statements +
+		02. For and while loops +
+		03. Range +
+		04. List Comprehensions +
+			01. Empty fixed-size list +
+	02. Methods +
+	03. Functions +
+		01. Return multiple values +
+		02. Generators +
+		03. Multiple arguments +
+	04. Lambda expressions +
 	05. Some built-in functions
-		01. Map
-		02. Reduce
-		03. Filter
-		04. Zip
-		05. Enumerate
-		06. All
-		07. Any
-		08. Complex
-	A. Milestone project
+		01. Map +
+		02. Reduce +
+		03. Filter +
+		04. Zip +
+		05. Enumerate +
+		06. All +
+		07. Any +
+		08. Complex +
+	A. Milestone project +
 
 Third Session:
 	01. Object oriented programming
+	02. Slice
 	02. Errors and exceptions
+		01. Iterate iterators
 	03. Some advanced functions
 	04. Modules
+	B. Milestone project
 
 Forth Session:
 	01. Graphical user interface programming
 	02. Socket programming
-	B. Final project
+	C. Final project
