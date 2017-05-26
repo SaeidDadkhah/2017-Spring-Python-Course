@@ -42,15 +42,35 @@ Second Session:
 	A. Milestone project +
 
 Third Session:
-	01. Object oriented programming
-	02. Slice
-	02. Errors and exceptions
-		01. Iterate iterators
-	03. Some advanced functions
-	04. Modules
-	B. Milestone project
+	00. Review +
+	01. Object oriented programming +
+		01. ID, type and value +
+			01. Value vs. identity +
+		02. Class +
+	02. Again basic -
+		01. divmod and pow -
+		02. Indexing and slicing lists +
+		03. Bitwise operators -
+			01. | & ^ ~ -
+			02. Shift -
+	03. Regular expressions -
+	04. Errors and exceptions -
+		01. Handle exceptions -
+		02. Raise exceptions -
+		03. Iterate iterators and range -
+	05. Some advanced functions -
+	06. Modules +
+		01. math -
+		02. random -
+	B. Milestone project +
+	X. Car database +
 
-Forth Session:
-	01. Graphical user interface programming
-	02. Socket programming
-	C. Final project
+Fourth Session:
+	01. Errors and exceptions +
+		01. Handle exceptions +
+		02. Raise exceptions +
+		03. Iterate iterators and range +
+	02. Socket programming +
+	03. Chat +
+		01. Graphical user interface programming +
+	C. Final project +
